@@ -4,3 +4,7 @@ __init__.py
 .#*
 #*#
 *~
+*.log
+BRIL_ITsim/*
+myPU_35sample/*
+myMinBiasSample/*
